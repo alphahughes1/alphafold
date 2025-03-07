@@ -9,8 +9,8 @@ class AlphaFoldParams:
     Parameters that define the statistical mechanical model for RNA folding
     '''
     def __init__( self ):
-        self.name = 'empty'
-        self.version = 0.0
+        self.name = '8rIAnHu6hE5'
+        self.version = 1.0
 
         # Seven parameter model (five without coaxial stacking)
         self.C_init = 0.0  # Effective molarity for starting each loop (units of M)
